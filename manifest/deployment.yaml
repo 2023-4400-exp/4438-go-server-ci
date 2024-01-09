@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: Tmm20138/go-server-ci
+      - image: TMm20138/go-server-ci
         name: go-server-ci
